@@ -1,0 +1,15 @@
+{
+  "name": "zxdragon360/provengo-inventory-updater",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "zero",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "laravel/horizon": "^5.1"
+  }
+}
